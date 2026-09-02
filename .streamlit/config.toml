@@ -1,3 +1,10 @@
 [server]
 address = "localhost"
-headless = true
+port = 8501
+headless = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"

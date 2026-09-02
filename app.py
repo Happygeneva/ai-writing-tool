@@ -28,3 +28,4 @@ st.divider()
 st.info(
     "初回利用時は、プロジェクト直下に `.env` ファイルを作成し "
     "`GEMINI_API_KEY=あなたのAPIキー` を設定してください（`.env.example` を参考にしてください）。"
+)
